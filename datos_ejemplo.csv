@@ -1,0 +1,12 @@
+﻿id_cliente,edad,ingreso_mensual,antiguedad_laboral,ciudad,producto_solicitado,aprobado
+C001,25,12000,2,Mérida,Crédito Personal,1
+C002,34,18000,5,CDMX,Crédito Hipotecario,0
+C003,29,14500,3,Guadalajara,Crédito Automotriz,1
+C004,40,22000,10,CDMX,Crédito Personal,0
+C005,22,9500,1,Mérida,Crédito Personal,1
+C006,31,16500,6,Monterrey,Crédito Automotriz,1
+C007,28,13000,3,Guadalajara,Crédito Personal,0
+C008,45,25000,15,Monterrey,Crédito Hipotecario,1
+C009,38,20000,8,CDMX,Crédito Personal,0
+C010,26,11000,2,Mérida,Crédito Automotriz,1
+C011,,,,,,
